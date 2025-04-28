@@ -17,11 +17,11 @@ Paso 6.1: Si p está marcado como primo, entonces:
 
 Paso 6.1.1: Marcar todos los múltiplos de p (desde p * 2 hasta n) como no primos.
 
-Fin
+Fin Mientras
 
 Paso 6.2: Incrementar p en 1.
 
-Fin
+FIN
 ```
 
 ## Diagrama de flujo:
