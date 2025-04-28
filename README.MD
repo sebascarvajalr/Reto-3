@@ -1,6 +1,8 @@
 # Reto 3
 ## Pseudocódigo:
 ```
+INICIO
+
 Paso 1: Definir n como entero.
 
 Paso 2: Escribir "Ingrese el número límite n:"
